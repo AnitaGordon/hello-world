@@ -78,3 +78,4 @@ Nested lists:
       
 Escaping markdown format using backslash
 *turned italics with star but not backslash* \*star ignored with use of backslash\*
+
