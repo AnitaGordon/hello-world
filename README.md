@@ -73,9 +73,9 @@ this will apear inside the box
 
 Nested lists:
 1. first thing
-  -second thing
+  * second thing
   nested
-      -nested again
+      ** nested again
       
 Escaping markdown format using backslash
 *turned italics with star but not backslash* \*star ignored with use of backslash\*
