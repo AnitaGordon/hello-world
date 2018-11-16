@@ -73,7 +73,8 @@ this will apear inside the box
 
 Nested lists:
 1. first thing
-  -second thing, nested
+  -second thing
+  nested
       -nested again
       
 Escaping markdown format using backslash
